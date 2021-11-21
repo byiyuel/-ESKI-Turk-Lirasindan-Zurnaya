@@ -15,13 +15,13 @@ cls()
 #For Turkish/Türkçe için
 if lang == "tr":
     print("Türk Lirasından Zurnaya Çevirme Aracı \n")
-    tl = int(input("Türk Lirası giriniz: \n"))
-    print("Sonuç:", 25 / tl)
+    tl = int(input("Türk Lirası giriniz:"))
+    print("\nSonuç:", 25 / tl)
 
 #For English/İngilizce için
 elif lang == "eng":
     print("Turkish Lira to Zurna \n")
-    tl = int(input("Enter Turkish Lira: \n"))
-    print("Result:", tl / 25)
+    tl = int(input("Enter Turkish Lira:"))
+    print("\nResult:", tl / 25)
 
 #End of code
