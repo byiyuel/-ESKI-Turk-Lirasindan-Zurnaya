@@ -1,6 +1,4 @@
 # trytozurna
- #Turkish Lira to Zurna
+ #(ESKİ)Türk Lirasından Zurnaya
 
- It's an app for convert Turkish Lira to Zurna.
-
-Niye ciddi?
+ Türk Lirasından Zurna para birimine çevirme aracı.
